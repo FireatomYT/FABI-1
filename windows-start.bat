@@ -8,7 +8,7 @@ cls
 
 :START
 echo.
-echo Welcome to VOTL's window launcher
+echo Welcome to FABI's window launcher
 echo Please select an option to begin:
 echo.
 echo    1. Start the bot normally
